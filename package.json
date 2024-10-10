@@ -18,5 +18,13 @@
     "dependencies": {
         "dotenv": "^16.4.5"
     },
-    "devDependencies": {}
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/M3PH1ST023/claw.git"
+    },
+    "bugs": {
+        "url": "https://github.com/M3PH1ST023/claw/issues"
+    },
+    "homepage": "https://github.com/M3PH1ST023/claw#readme"
 }
